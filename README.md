@@ -7,7 +7,7 @@ Equipo: CircularTeam
 
 Puedes probar totalmente funcional nuestra herramienta Sesgus.
 
- [Mira la aplicación web en vivo()](https://sesgus.xyz)
+ [Mira la aplicación web en vivo](https://sesgus.xyz)
 
 
 ## Nombre del proyecto/producto
